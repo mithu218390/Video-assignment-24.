@@ -51,7 +51,7 @@ body .btn-primary:hover::after{
 ul.our-primary-menu li a {
     text-decoration: none;
     display: inline-block;
-    padding: 10px 13px;
+    padding: 10px 10px;
     color: #111;
     font-weight: 500;
 }
