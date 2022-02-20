@@ -104,7 +104,12 @@ ul.our-primary-menu li:hover ul{
     text-decoration: none;
     font-size: 18px;
 }
-
+ul li a{
+    transition: .5s;
+}
+ul li a:hover{
+    color: #e63b3d;
+}
 
 /**** HEADER SECTION END ****/
 
